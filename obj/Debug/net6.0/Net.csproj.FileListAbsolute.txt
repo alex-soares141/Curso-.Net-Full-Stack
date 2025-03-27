@@ -1,0 +1,15 @@
+D:\Meus projetos Front\Net\bin\Debug\net6.0\Net.exe
+D:\Meus projetos Front\Net\bin\Debug\net6.0\Net.deps.json
+D:\Meus projetos Front\Net\bin\Debug\net6.0\Net.runtimeconfig.json
+D:\Meus projetos Front\Net\bin\Debug\net6.0\Net.dll
+D:\Meus projetos Front\Net\bin\Debug\net6.0\Net.pdb
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.csproj.AssemblyReference.cache
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.AssemblyInfoInputs.cache
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.AssemblyInfo.cs
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.csproj.CoreCompileInputs.cache
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.dll
+D:\Meus projetos Front\Net\obj\Debug\net6.0\refint\Net.dll
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.pdb
+D:\Meus projetos Front\Net\obj\Debug\net6.0\Net.genruntimeconfig.cache
+D:\Meus projetos Front\Net\obj\Debug\net6.0\ref\Net.dll
